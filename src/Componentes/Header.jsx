@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Ejercicio.css"; // Asegúrate de que los estilos están accesibles
+import "./Ejercicio.css"; 
 
 const Header = () => {
     return (

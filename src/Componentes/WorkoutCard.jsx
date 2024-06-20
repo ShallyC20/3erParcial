@@ -1,6 +1,6 @@
 import React from 'react';
 import Imagen4 from "../assets/Icons.png";
-import "./Ejercicio.css"; // Asegúrate de que los estilos están accesibles
+import "./Ejercicio.css";
 
 const WorkoutCard = ({ image, title, description }) => {
     return (
